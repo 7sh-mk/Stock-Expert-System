@@ -14,7 +14,11 @@ patterns for any stock, helping users make faster and clearer
 decisions without manual analysis.
 
 ---
+## System Architecture
 
+![System Architecture](system_architecture.png)
+
+---
 ##  How It Works
 
 - **Knowledge Base:** predefined rules for price-action and volume patterns
